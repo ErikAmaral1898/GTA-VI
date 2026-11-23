@@ -1,11 +1,11 @@
 # GTA-VI — Transforme sua foto no estilo GTA VI
 
-Aplicação web interativa que permite escolher personagens icônicos ou enviar sua própria foto/selfie para transformá-la automaticamente em uma arte personalizada no estilo visual de **GTA VI**, utilizando **Inteligência Artificial**[cite: 2].
+Aplicação web interativa que permite escolher personagens icônicos ou enviar sua própria foto/selfie para transformá-la automaticamente em uma arte personalizada no estilo visual de **GTA VI**, utilizando **Inteligência Artificial**.
 
 ## O que o projeto faz
 
-- **Seleção de personagens:** Permite navegar entre personagens inspirados no universo de Vice City[cite: 2].
-- **Foto personalizada com IA:** O usuário envia sua própria foto ou tira uma selfie e a aplicação gera uma versão estilizada com a estética, iluminação e arte características de GTA VI[cite: 2].
+- **Seleção de personagens:** Permite navegar entre personagens inspirados no universo de Vice City.
+- **Foto personalizada com IA:** O usuário envia sua própria foto ou tira uma selfie e a aplicação gera uma versão estilizada com a estética, iluminação e arte características de GTA VI.
 - **Interface temática:** Visual imersivo inspirado nas telas e artes oficiais do jogo[cite: 2].
 
 ## Tecnologias utilizadas
