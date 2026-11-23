@@ -1,17 +1,19 @@
-# GTA-VI
+# GTA-VI — Transforme sua foto no estilo GTA VI
 
-Projeto web interativo inspirado no universo de GTA VI, com seleção de personagem e elementos visuais gerados/apoiados por Inteligência Artificial[cite: 1, 2].
+Aplicação web interativa que permite escolher personagens icônicos ou enviar sua própria foto/selfie para transformá-la automaticamente em uma arte personalizada no estilo visual de **GTA VI**, utilizando **Inteligência Artificial**[cite: 2].
 
-## Preview
+## O que o projeto faz
 
-![Preview do projeto GTA-VI](./assets/preview.jpg)
+- **Seleção de personagens:** Permite navegar entre personagens inspirados no universo de Vice City[cite: 2].
+- **Foto personalizada com IA:** O usuário envia sua própria foto ou tira uma selfie e a aplicação gera uma versão estilizada com a estética, iluminação e arte características de GTA VI[cite: 2].
+- **Interface temática:** Visual imersivo inspirado nas telas e artes oficiais do jogo[cite: 2].
 
 ## Tecnologias utilizadas
 
-- **HTML5** — Estrutura semântica das telas e elementos da interface.
-- **CSS3** — Estilização, layout e identidade visual do projeto.
-- **JavaScript** — Interatividade, manipulação de estados e dinâmica da aplicação.
-- **Inteligência Artificial (IA)** — Apoio na criação de visuais, conceitos e recursos do projeto.
+- **HTML5** — Estrutura semântica da aplicação e upload/captura de imagem.
+- **CSS3** — Estilização temática, layout responsivo e efeitos visuais.
+- **JavaScript** — Lógica de interação, troca de personagens, manipulação de imagens e integração com a IA.
+- **Inteligência Artificial (IA)** — Processamento e estilização das fotos dos usuários no tema GTA VI.
 
 ## Como executar o projeto
 
